@@ -2,6 +2,6 @@
 first collaboration
 
 Collaborators:
-Jamie Harding
+Jamie Harding, Leah Garvie
 
-I prefer Python
+working on collaboration assignment
