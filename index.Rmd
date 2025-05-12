@@ -3,3 +3,6 @@ title: "Our Website"
 output: html_document
 ---
 
+Authors:
+- Leah Garvie
+- Jamie Harding
