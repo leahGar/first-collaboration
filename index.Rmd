@@ -6,3 +6,7 @@ output: html_document
 Authors:
 - Leah Garvie
 - Jamie Harding
+```{r}
+library("nycflights13")
+```
+
