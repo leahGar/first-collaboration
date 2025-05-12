@@ -8,5 +8,8 @@ Authors:
 - Jamie Harding
 ```{r}
 library("nycflights13")
+library(tidyverse)
+flights
+filter(flights, month == 1, day == 1)
 ```
 
